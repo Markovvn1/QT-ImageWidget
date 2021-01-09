@@ -1,4 +1,4 @@
-#QT-ImageWidget
+# QT-ImageWidget
 
 You can use this widget to display pixmap with keeping aspect ratio. It is mutch faster and mutch better than `QPixmap.scaled(w, h, QtCore.Qt.KeepAspectRatio)`
 
